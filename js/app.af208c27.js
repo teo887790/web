@@ -1505,4 +1505,6 @@
     B = Q.O(B)
 }
 )();
+window.kU = kU;
+
 //# sourceMappingURL=app.af208c27.js.map
